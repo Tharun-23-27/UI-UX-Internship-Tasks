@@ -1,55 +1,32 @@
-# Usability Testing Report
+# Figma Prototype Usability Testing Report
 
-## 📌 Project: Figma Prototype - Task 2
-**Date:** YYYY-MM-DD  
-**Test Conducted By:** Your Name  
-**Prototype Link:** [Figma Prototype](your-figma-link-here)
+## Overview
+This document summarizes the usability testing feedback collected from users who interacted with the Figma prototype.
 
----
+## Testing Methodology
+- **Prototype Link:** Shared via Google Forms.
+- **Participants:** 6 testers with different experience levels (Beginner, Intermediate, Advanced).
+- **Testing Criteria:** Task completion, navigation ease, UI clarity, and overall experience.
 
-## 🎯 Test Objectives
-- Evaluate the usability of the **task checkbox interaction**.
-- Identify any issues in **navigation, task creation, editing, and deletion**.
-- Collect feedback on **ease of use and UI clarity**.
+## Test Results
 
----
+| Participant | Experience Level | Was Navigation Smooth? | UI Clarity | Issues Faced | Suggestions |
+|-------------|-----------------|--------------------|-----------|--------------|-------------|
+| Nikesh Parvath S | Beginner | Yes | Clear | No major issues | None |
+| Ashif JH | Intermediate | Yes | Smooth | No major issues | Better background colors |
+| Hari Raam K | Beginner | Yes | Smooth | No major issues | Improve color contrast |
+| Anmol Kumar Singh | Advanced | Yes | Easy to navigate | Priority levels unclear | Try new color combinations |
+| Shree Dharsan | Beginner | Yes | Everything clear | No major issues | None |
+| Dharani | Beginner | Yes | Nothing unclear | No major issues | Better color combinations |
 
-## 📝 Test Setup
-- **Participants:** X testers (Peers/Students)
-- **Tools Used:** Figma, Google Forms (for feedback collection)
-- **Testing Method:** Observational + Feedback Survey
+## Key Findings
+1. **Navigation & UI Clarity**: Most users found navigation smooth and UI clear, except for minor color contrast concerns.
+2. **Feature Limitations**: Some users expected task addition/editing functionality, which Figma doesn't natively support.
 
----
+## Recommendations
+- **Enhance UI Contrast**: Improve background and text contrast based on user feedback.
+- **Improve Task Functionality**: While Figma has limitations, a better representation of task interactions might help.
 
-## ✅ Test Tasks
-1. **Toggle a task checkbox** (Mark a task as complete/incomplete).
-2. **Simulate adding a new task** (Navigate to a pre-filled screen to mimic task addition).
-3. **Simulate editing an existing task** (Navigate to an "edited" version of the task screen).
-4. **Delete a task** and confirm it is removed.
-5. **Navigate between screens** smoothly.
 
----
-
-## 📝 Feedback & Observations
-| Issue | Description | Frequency | Tester Comments |
-|-------|------------|------------|----------------|
-| Checkbox not toggling | Checkbox does not switch states properly | 3/5 testers | "I clicked, but nothing happened." |
-| Hard to find delete button | Users couldn't easily locate delete | 2/5 testers | "I expected it to be more visible." |
-| Confusing navigation | Some testers got lost | 1/5 testers | "I didn’t realize how to go back." |
-
----
-
-## 🔧 Improvements & Fixes
-- ✅ **Fixed checkbox toggle interaction** (Ensured proper prototype linking).
-- 🔍 **Increased button visibility** (Made delete button larger & more prominent).
-- 🔄 **Improved navigation clarity** (Added back buttons where needed).
-
----
-
-## 📂 Submission
-- **Updated Prototype Link:** [Figma Prototype (Updated)](your-updated-figma-link)
-- **GitHub Repository:** [Your GitHub Repo](your-github-repo-link)
-
----
-
-🎉 **Usability testing completed!** Prototype improved based on real user feedback. 🚀
+## Conclusion
+Overall, the prototype performed well in terms of navigation and UI clarity. Addressing minor UI enhancements  will improve the experience further.
