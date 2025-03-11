@@ -4,7 +4,7 @@
 This document summarizes the usability testing feedback collected from users who interacted with the Figma prototype.
 
 ## Testing Methodology
-- **Prototype Link:** Shared via Google Forms.
+- **Prototype Link:** [View the Prototype Here](https://www.figma.com/design/q2AQMk9Ro1L7BzuPWsJLb2/To-Do-List-App?node-id=105-483&t=sWG5VQmN1nZLsCyU-1)
 - **Participants:** 6 testers with different experience levels (Beginner, Intermediate, Advanced).
 - **Testing Criteria:** Task completion, navigation ease, UI clarity, and overall experience.
 
@@ -27,6 +27,5 @@ This document summarizes the usability testing feedback collected from users who
 - **Enhance UI Contrast**: Improve background and text contrast based on user feedback.
 - **Improve Task Functionality**: While Figma has limitations, a better representation of task interactions might help.
 
-
 ## Conclusion
-Overall, the prototype performed well in terms of navigation and UI clarity. Addressing minor UI enhancements  will improve the experience further.
+Overall, the prototype performed well in terms of navigation and UI clarity. Addressing minor UI enhancements will improve the experience further.
