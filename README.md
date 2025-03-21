@@ -1,4 +1,4 @@
-# To-Do List UI/UX Desig
+# To-Do List UI/UX Design
 Internship Project - UI/UX Design for a To-Do List App
 <br>
 <br>
