@@ -12,4 +12,4 @@ This project was completed as part of my UI/UX Internship, where I designed a To
 Tools Used:
 Figma (for wireframing, prototyping & UI design)
 GitHub (for project documentation)
-Figma Project Link:https://www.figma.com/design/eKaXEuqzj5VCLOdVMorriu/To-Do-List-Main?node-id=105-485&t=wTfrJJWpE7CXQmAa-1
+Figma Project Link:https://www.figma.com/design/IuO6tk3sFHXxlYZWtFOE5G/To-Do-List-App?node-id=105-483&t=7SET47kU6pdkZxAP-1
