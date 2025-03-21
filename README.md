@@ -1,10 +1,11 @@
 # To-Do List UI/UX Desig
-<br>
 Internship Project - UI/UX Design for a To-Do List App
+<br>
 <br>
 **Overview:**
 <br>
 This project was completed as part of my UI/UX Internship, where I designed a To-Do List App from wireframing to high-fidelity UI design.
+<br>
 <br>
 **Project Tasks:**
 <br>
@@ -14,7 +15,7 @@ Task 2: Prototyping - Developed an interactive prototype and conducted usability
 <br>
 Task 3: UI Design - Designed high-fidelity UI screens ensuring consistency, color theory, and user experience principles.
 <br>
-
+<br>
 **Tools Used:**
 <br>
 Figma (for wireframing, prototyping & UI design)
