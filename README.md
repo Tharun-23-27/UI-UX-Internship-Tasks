@@ -1,11 +1,12 @@
 # To-Do List UI/UX Desig
 <br>
+<br>
 Internship Project - UI/UX Design for a To-Do List App
 
 **Overview:**
 <br>
 This project was completed as part of my UI/UX Internship, where I designed a To-Do List App from wireframing to high-fidelity UI design.
-
+<br>
 **Project Tasks:**
 <br>
 Task 1: Wireframing - Created low-fidelity wireframes to outline user flow.
