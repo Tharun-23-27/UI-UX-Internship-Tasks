@@ -6,8 +6,11 @@ This project was completed as part of my UI/UX Internship, where I designed a To
 
 **Project Tasks:**
 Task 1: Wireframing - Created low-fidelity wireframes to outline user flow.
+<br>
 Task 2: Prototyping - Developed an interactive prototype and conducted usability testing.
+<br>
 Task 3: UI Design - Designed high-fidelity UI screens ensuring consistency, color theory, and user experience principles.
+<br>
 
 **Tools Used:**
 Figma (for wireframing, prototyping & UI design)
